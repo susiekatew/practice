@@ -1,0 +1,46 @@
+body {
+    background-color: #c9bdf2;
+
+}
+
+h1 {
+    font-family: Sacramento, cursive;
+    text-align: center;
+    color:#ffc400;
+    border-color: orange;
+    border-width: 3px;
+    border-style: dotted;
+    background-color:#3c224f;
+    
+}
+
+img { 
+    border-color: orange;
+    border-width: 5px;
+    border-style: dotted;
+    background-color:#3c224f; 
+}
+
+h2 {
+    font-family: Sacramento, cursive;
+    text-align: center;
+    color:#ffc400;
+    border-color: orange;
+    border-width: 3px;
+    border-style: dotted;
+    background-color:#3c224f;
+}
+
+p{
+    font-family:Bad Script, cursive;
+    font-weight: bold;
+    color: #d16928;
+    font-size: 20px;
+}
+
+ul {
+    font-family:Bad Script, cursive;
+    font-weight: bold;
+    color: #d16928;
+    font-size: 20px;
+}
